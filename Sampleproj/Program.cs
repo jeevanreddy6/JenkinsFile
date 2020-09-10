@@ -8,13 +8,11 @@ namespace Sampleproj
 {
     class Program
     {
+        int iNum1 = 0, iNum2 = 0;
         void GetNumbers() 
         {
-            int iNum1 = 0, iNum2 = 0;
-            iNum1 = int.MaxValue;
-            Console.WriteLine("The value of Num1 is " + iNum1);
-            iNum1++;
-            Console.WriteLine("The value of Num1 after increment is " + iNum1);
+             Console.WriteLine("Enter the first number");
+            Console.WriteLine("Hello all!");
             
         }
         static void Main(string[] args)
