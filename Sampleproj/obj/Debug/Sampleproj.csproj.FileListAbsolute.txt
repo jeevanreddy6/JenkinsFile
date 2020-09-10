@@ -1,0 +1,7 @@
+C:\Users\JEEVAN REDDY\Desktop\LTI Jeevan\Day-3 DevOps\Samplesoln\Sampleproj\bin\Debug\Sampleproj.exe.config
+C:\Users\JEEVAN REDDY\Desktop\LTI Jeevan\Day-3 DevOps\Samplesoln\Sampleproj\bin\Debug\Sampleproj.exe
+C:\Users\JEEVAN REDDY\Desktop\LTI Jeevan\Day-3 DevOps\Samplesoln\Sampleproj\bin\Debug\Sampleproj.pdb
+C:\Users\JEEVAN REDDY\Desktop\LTI Jeevan\Day-3 DevOps\Samplesoln\Sampleproj\obj\Debug\Sampleproj.csprojAssemblyReference.cache
+C:\Users\JEEVAN REDDY\Desktop\LTI Jeevan\Day-3 DevOps\Samplesoln\Sampleproj\obj\Debug\Sampleproj.csproj.CoreCompileInputs.cache
+C:\Users\JEEVAN REDDY\Desktop\LTI Jeevan\Day-3 DevOps\Samplesoln\Sampleproj\obj\Debug\Sampleproj.exe
+C:\Users\JEEVAN REDDY\Desktop\LTI Jeevan\Day-3 DevOps\Samplesoln\Sampleproj\obj\Debug\Sampleproj.pdb
